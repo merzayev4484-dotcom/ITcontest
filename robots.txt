@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: __SITE_URL__/sitemap.xml
+Sitemap: https://merzayev4484-dotcom.github.io/ITcontest/sitemap.xml
